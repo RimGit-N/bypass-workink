@@ -1,2 +1,0 @@
-# bypass-workink
-workink bypasser
