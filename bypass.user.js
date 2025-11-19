@@ -8,8 +8,9 @@
 // @match        https://work.ink/*
 // @run-at       document-start
 // @grant        unsafeWindow
-// @icon         https://cdn.discordapp.com/icons/1312680907559276576/bedc7397e04d863a9ee5c6087ece8ae8.png?size=80&quality=lossless
+// @icon         https://cdn.discordapp.com/avatars/1080595762427203654/2603aa8af5bd918f636662add04f34da.webp?size=1024
 // @downloadURL  https://github.com/elfuhh/bypass/raw/main/bypass.user.js
 // @updateURL    https://github.com/elfuhh/bypass/raw/main/bypass.user.js
 // @require https://github.com/elfuhh/bypass/raw/refs/heads/main/bypass.js
+
 // ==/UserScript==
