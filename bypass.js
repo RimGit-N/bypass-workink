@@ -654,8 +654,8 @@ input:checked + .toggle-slider:before {
         <div class="version" id="version">${t('version')}</div>
         <div class="credit" id="credit">${t('madeBy')}</div>
         <div class="links">
-          <a href="https://www.youtube.com/@dyydeptry" target="_blank">YouTube</a>
-          <a href="https://discord.gg/DWyEfeBCzY" target="_blank">Discord</a>
+          <a href="https://www.tiktok.com/@x2012210" target="_blank">TikTok</a>
+          <a href="https://discord.gg/chloex" target="_blank">Discord</a>
         </div>
       </div>
     </div>
@@ -1549,3 +1549,4 @@ async function spoofSocials() {
 }
 
 })();
+
